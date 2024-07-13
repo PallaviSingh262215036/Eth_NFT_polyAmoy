@@ -1,0 +1,19 @@
+{
+  "name": "Enlightenment Under the Bodhi Tree",
+  "description": "At the heart of this scene, envision a solitary figure meditating under the Bodhi tree, bathed in the gentle glow of enlightenment. Their eyes closed in tranquil contemplation, they radiate an aura of peace and serenity that transcends mortal existence. Around them, symbols of earthly attachments—glittering riches, ephemeral pleasures, and fleeting fame—scatter like dust in the wind. In contrast, beams of divine wisdom illuminate the scene, casting soft shadows that speak of the impermanence of worldly pursuits.",
+  "image": "ipfs:QmQPGa6wypqVSdHc7X3VivCw1FStK6XjCqTxY4CQULuikK",
+  "attributes": [
+    {
+      "trait_type": "Theme",
+      "value": "Enlightenment"
+    },
+    {
+      "trait_type": "Symbolism",
+      "value": "Earthly Attachments vs. Divine Wisdom"
+    },
+    {
+      "trait_type": "Features",
+      "value": "Bodhi Tree, Meditating Figure, Glow of Enlightenment"
+    }
+  ]
+}

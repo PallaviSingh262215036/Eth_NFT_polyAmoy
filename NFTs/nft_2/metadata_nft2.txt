@@ -1,0 +1,19 @@
+{
+  "name": "Tree of Life",
+  "description": "Imagine a tree of life that spans across realms, its roots delving deep into the soil of ancient wisdom and its branches reaching towards the stars of infinite possibilities. Each leaf on this tree tells a story of resilience and growth, capturing moments of triumph and tribulation. Birds of knowledge and serenity nest among its boughs, their songs echoing the universal truths hidden within the tree's gnarled bark. This tree is a symbol of interconnectedness and enlightenment, a reminder that all life is intertwined in the grand tapestry of existence.",
+  "image": "ipfs://QmedFJ2mPp9obiohAhJNGnA6LRwRrkr5Mxw8xBeyVxfBZY",
+  "attributes": [
+    {
+      "trait_type": "Theme",
+      "value": "Interconnectedness and Enlightenment"
+    },
+    {
+      "trait_type": "Symbolism",
+      "value": "Tree of Life"
+    },
+    {
+      "trait_type": "Features",
+      "value": "Roots of Wisdom, Branches of Possibilities, Leaves of Stories, Birds of Knowledge"
+    }
+  ]
+}
